@@ -18,7 +18,7 @@ This Power BI dashboard analyzes energy efficiency across 94,990 residential pro
 
 The central analytical question driving this project:
 
-> **Which properties in Warrington are most at risk of fuel poverty, and where should retrofit funding be prioritized?**
+> **Which housing characteristics are associated with lower energy efficiency in Warrington, and which property groups could be priorities for further retrofit assessment?**
 
 ---
 
