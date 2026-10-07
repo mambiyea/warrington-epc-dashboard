@@ -86,10 +86,11 @@ Star schema with the following tables:
 ---
 
 ## Recommendations
+## Recommendations
 
-1. **Prioritize retrofit programmes** for pre-1900 properties — insulation upgrades and modern heating systems would have the highest impact on Warrington's overall EPC ratings
-2. **Accelerate fuel switching** from oil and coal to mains gas or heat pumps in Semi-Detached and older terraced properties to achieve the greatest efficiency gains across the borough
+1. **Assess older properties for retrofit support.** Pre-1900 properties have a higher proportion of lower EPC ratings in this dataset, making them a potential priority for further assessment.
 
+2. **Investigate insulation and heating improvements.** Assess options for lower-rated properties, including those using oil or coal, considering costs, feasibility, and expected benefits before recommending specific upgrades.
 ---
 
 ## Screenshots
